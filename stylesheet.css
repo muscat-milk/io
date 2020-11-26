@@ -1,0 +1,14 @@
+body {
+    margin-left: 50px;
+}
+.title {
+  color: #blue;
+}
+.top-wrapper {
+  font-size: 50px;
+  margin-top: 100px;
+  color: red;
+}
+p{
+  font-size: 35px;
+}
